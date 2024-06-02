@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.17.0">
+    <archive path="C:/Users/User/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.17.0/jackson-core-2.17.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.17.0">
+    <archive path="C:/Users/User/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.17.0/jackson-annotations-2.17.0.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.14.9">
+    <archive path="C:/Users/User/.m2/repository/net/bytebuddy/byte-buddy/1.14.9/byte-buddy-1.14.9.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.17.0">
+    <archive path="C:/Users/User/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.17.0/jackson-databind-2.17.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
